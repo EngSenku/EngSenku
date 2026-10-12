@@ -20,8 +20,10 @@
 
 <div align="center">
 
-**Now:** Medical AI research @ FMPT, turning 2D histology slices into a 3D human embryo
-**ENSA Tanger '27** · Tangier, Morocco · Open to PFE
+<p align="center">
+<b>Now:</b> Medical AI research @ FMPT, turning 2D histology slices into a 3D human embryo<br/>
+<b>ENSA Tanger '27</b> · Tangier, Morocco · Open to PFE
+</p>
 
 <a href="https://github.com/EngSenku/psy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngSenku&repo=psy&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/></a>
 <a href="https://github.com/EngSenku/botola-pro-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngSenku&repo=botola-pro-analytics&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/></a>
