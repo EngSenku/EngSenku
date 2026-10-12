@@ -1,21 +1,21 @@
-<div align="center">
-
-```bash
-┌──(mohamed@abbou)-[~]
-└─$ whoami
+```text
+┌─[mohamed@abbou]─[~]
+└──╼ $ whoami
 Mohamed Abbou
 
-┌──(mohamed@abbou)-[~]
-└─$ echo $ROLE
+┌─[mohamed@abbou]─[~]
+└──╼ $ cat role
 Software Engineer | Data Science & AI | Cloud-Native
 
-┌──(mohamed@abbou)-[~]
-└─$ ./connect.sh
+┌─[mohamed@abbou]─[~]
+└──╼ $ open --links
 ```
 
-[![Portfolio](https://img.shields.io/badge/portfolio-00F3BB?style=flat-square&logo=netlify&logoColor=111111)](https://mohamed-abbou-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abbou/)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedabbou363@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-ffffff?style=flat-square&logo=github&logoColor=000000)](https://github.com/EngSenku)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF9D?style=for-the-badge&logo=netlify&logoColor=000000)](https://mohamed-abbou-portfolio.netlify.app)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abbou/)
+[![EMAIL](https://img.shields.io/badge/EMAIL-FF3366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabbou363@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/EngSenku)
 
 </div>
