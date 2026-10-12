@@ -6,16 +6,15 @@
 
 <br/>
 
-*"10 billion percent."* — Senku Ishigami
+*"First do it, then do it right, then do it better."*
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center"><h2>6,000+</h2><sub>active users<br/><b>Iron Check</b></sub></td>
-<td align="center"><h2>1,000+</h2><sub>clients<br/><b>SEZART</b></sub></td>
-<td align="center"><h2>0.91</h2><sub>Dice score<br/><b>3D embryo AI</b></sub></td>
-<td align="center"><h2>10+</h2><sub>Docker containers<br/><b>AICV · Proxmox</b></sub></td>
+<td align="center" width="33%"><b>Software</b><br/><sub>Full-stack platforms, secure APIs, CI/CD</sub></td>
+<td align="center" width="33%"><b>Data &amp; AI</b><br/><sub>Medical imaging, segmentation, data pipelines</sub></td>
+<td align="center" width="33%"><b>Cloud</b><br/><sub>Docker, Proxmox, Kubernetes, Linux</sub></td>
 </tr>
 </table>
 
