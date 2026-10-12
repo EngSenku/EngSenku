@@ -1,27 +1,16 @@
 <div align="center">
 
-# Mohamed Abbou
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:00d8ff,100:4f9deb&height=150&section=header&text=Mohamed%20Abbou&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-`Software Engineer` | `Data Science & AI` | `Cloud-Native`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00D8FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+%26+Computer+Vision;Cloud-Native+%7C+Full-Stack+%7C+DevOps;Bridging+Code%2C+Data+%26+Intelligence)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00D8FF&center=true&vCenter=true&width=500&lines=Building+scalable+AI+solutions.;Automating+2D%E2%86%923D+medical+reconstruction.;Turning+ideas+into+production+code.)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/EngSenku/EngSenku/main/assets/footy.gif" width="520" alt="animated sequence">
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=netlify&logoColor=00F3BB)](https://mohamed-abbou-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abbou/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedabbou363@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/EngSenku)
 
-<div align="center">
-
-<a href="https://mohamed-abbou-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=netlify&logoColor=cyan"/>
-</a>
-<a href="mailto:mohamedabbou363@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamed-abbou/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/EngSenku">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=EngSenku&label=Views&color=00D8FF&style=flat-square">
 
 </div>
-
