@@ -6,7 +6,7 @@
 
 <br/>
 
-*"First do it, then do it right, then do it better."*
+*"Just make it exist first. You can make it good later."*
 
 </div>
 
