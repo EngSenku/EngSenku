@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0d1117&height=200&section=header&text=SENKU%20ABBOU&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0d1117&height=200&section=header&text=SENKU&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Data+%26+AI+%C2%B7+Cloud-Native;Building+AI+that+reads+human+anatomy;Founder+of+Iron+Check+%26+SEZART;Looking+for+a+PFE+internship" alt="typing"/>
 
